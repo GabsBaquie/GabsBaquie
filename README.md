@@ -1,13 +1,15 @@
 ![Top Image](asset/top.svg)
 
-
-<div style="display: flex; gap: 5px;">
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBaquie&layout=compact&theme=dracula)
-
-![Stats2](https://github-readme-stats.vercel.app/api?username=GabsBaquie&show_icons=true&locale=en&theme=dracula)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBaquie&layout=compact&theme=dracula" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GabsBaquie&show_icons=true&locale=en&theme=dracula" alt="Stats2" />
+    </td>
+  </tr>
+</table>
 
 ![Bottom Image](asset/bottom.svg)
 
