@@ -1,7 +1,7 @@
 ![Top Image](asset/top.svg)
 
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 5px;">
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBaquie&layout=compact&theme=dracula)
 
