@@ -3,11 +3,11 @@
 </p>
 
 <table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
+  <tr border="0">
+    <td align="center" border="0" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBaquie&layout=compact&theme=dracula" alt="Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" border="0" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=GabsBaquie&show_icons=true&locale=en&theme=dracula" alt="Stats2" width="100%" />
     </td>
   </tr>
