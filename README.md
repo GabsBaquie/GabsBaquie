@@ -1,6 +1,6 @@
 ![Top Image](asset/top.svg)
 
-<div style="display: flex; gap: 1rem; justify-content: space-around;">
+<div style="display:flex; gap:1rem; justify-content:space-around; flex-direction: row;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBaquie&layout=compact&theme=dracula" alt="Stats" />
 
