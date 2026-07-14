@@ -12,22 +12,24 @@
     .wave {
       animation: wave 3s linear;
       animation-iteration-count: infinite;
-      fill: #FFC561;
+      fill: #6366F1;
     }
 
     .wave:hover {
-      fill: #FFF9D9;
+      fill: #06B6D4;
     }
 
     #wave2 {
       animation-duration: 5s;
       animation-direction: reverse;
-      opacity: .6
+      opacity: .6;
+      fill: #4338CA;
     }
 
     #wave3 {
       animation-duration: 7s;
       opacity: .3;
+      fill: #06B6D4;
     }
 
     @keyframes wave {

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative"
+    width="854" height="200" viewBox="0 0 854 200">
+    <style>
+        .text {
+            font-size: 58px;
+            font-weight: 700;
+            font-family: "Source Code Pro", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        }
+
+        /* Carrousel : 7 langues x 2s = cycle de 14s */
+        .lang {
+            opacity: 0;
+            animation: cycle 14s infinite;
+        }
+
+        .lang:nth-of-type(1) { animation-delay: 0s; }
+        .lang:nth-of-type(2) { animation-delay: 2s; }
+        .lang:nth-of-type(3) { animation-delay: 4s; }
+        .lang:nth-of-type(4) { animation-delay: 6s; }
+        .lang:nth-of-type(5) { animation-delay: 8s; }
+        .lang:nth-of-type(6) { animation-delay: 10s; }
+        .lang:nth-of-type(7) { animation-delay: 12s; }
+
+        @keyframes cycle {
+            0%      { opacity: 0; transform: translateY(10px); }
+            2.5%    { opacity: 1; transform: translateY(0); }
+            12%     { opacity: 1; transform: translateY(0); }
+            14.28%  { opacity: 0; transform: translateY(-10px); }
+            100%    { opacity: 0; }
+        }
+
+        .cursor {
+            animation: blink 1.2s step-end infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .lang { animation: none; opacity: 0; }
+            .lang:nth-of-type(1) { opacity: 1; }
+            .cursor { animation: none; }
+        }
+    </style>
+    <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+
+        <defs>
+            <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#6366F1" />
+                <stop offset="55%" stop-color="#4338CA" />
+                <stop offset="100%" stop-color="#06B6D4" />
+            </linearGradient>
+        </defs>
+
+        <path d="" fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline"
+                keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
+                values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+            </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4">
+            <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline"
+                keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
+                values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+            </animate>
+        </path>
+    </g>
+
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Bienvenue</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Welcome</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Bem-vindo</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Bienvenido</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Willkommen</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">Benvenuto</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="48%" class="text lang">
+        <tspan fill="#06B6D4">&lt;&#160;</tspan><tspan fill="#3D61FF">ようこそ</tspan><tspan fill="#06B6D4"> /&gt;</tspan><tspan class="cursor" fill="#3D61FF">_</tspan>
+    </text>
+</svg>
