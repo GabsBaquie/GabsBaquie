@@ -10,10 +10,10 @@
   
   ---
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellebaquié)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellebaquie)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabsBaquie)
   [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portfolio-gabs.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-gabrielle%40pikka.fr-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielle@pikka.fr)
+  [![Email](https://img.shields.io/badge/Email-gabriellebaquie%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellebaquie@gmail.com)
 
 </div>
 
@@ -106,8 +106,8 @@ Building **beautiful, performant e-commerce experiences** for world-class Shopif
 
 [![Portfolio](https://img.shields.io/badge/🌟%20Portfolio-Visit-06B6D4?style=for-the-badge)](https://portfolio-gabs.vercel.app)
 [![CV](https://img.shields.io/badge/📄%20CV-Visit-4F46E5?style=for-the-badge)](https://cv-gabs.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/gabriellebaquié)
-[![Email](https://img.shields.io/badge/✉️%20Email-Contact-EA4335?style=for-the-badge)](mailto:gabrielle@pikka.fr)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/gabriellebaquie)
+[![Email](https://img.shields.io/badge/✉️%20Email-Contact-EA4335?style=for-the-badge)](mailto:gabriellebaquie@gmail.com)
 
 ---
 
