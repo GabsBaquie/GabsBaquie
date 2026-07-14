@@ -121,10 +121,10 @@ Je suis toujours intéressée par des **projets créatifs**, des **collaboration
 
 ---
 
-![Bottom Banner](asset/bottom.svg)
-
 <div align="center">
 
 **Built with** ❤️ **by Gabs** | **React** • **Tailwind CSS** • **Passion for Web Design**
 
 </div>
+
+![Bottom Banner](asset/bottom.svg)
